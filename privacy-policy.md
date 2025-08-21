@@ -18,7 +18,6 @@ We collect and store the following information locally on your device:
 
 Our app requests the following permissions to provide its functionality:
 
-• **Camera**: used only for scanning QR codes to import/export watchlists. We do not store or transmit any camera data.
 • **Notifications**: used to send you reminders about upcoming game releases based on your preferences.
 • **Storage**: used to save your watchlist, settings, and preferences locally on your device.
 
@@ -47,5 +46,6 @@ We use IGDB.com to fetch game information. Please refer to their privacy policy 
 We may update this privacy policy from time to time. Any changes will be reflected in the app with an updated "Last updated" date. Continued use of the app after changes constitutes acceptance of the updated policy.
 
 ## Contact Us
+
 
 If you have any questions about this privacy policy or our data practices, please contact us through the app store where you downloaded this application.
