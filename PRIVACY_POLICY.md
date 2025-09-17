@@ -1,4 +1,4 @@
-# Privacy Policy
+# DayOne Privacy Policy
 
 **Last updated: September 17, 2025**
 
@@ -85,3 +85,4 @@ If you have any questions about this privacy policy or our data practices, pleas
 ---
 
 *This privacy policy is effective as of September 17, 2025, and applies to DayOne mobile application available on iOS and Android platforms.*
+
