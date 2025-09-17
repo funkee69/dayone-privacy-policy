@@ -1,4 +1,13 @@
 # _config.yml
 theme: jekyll-theme-primer
+
+# Site metadata (optional but nice)
 title: DayOne — Support & Privacy
 description: Official support and privacy policy for the DayOne app.
+
+# REQUIRED for a project site (prevents broken absolute links)
+url: "https://funkee69.github.io"
+baseurl: "/dayone-privacy-policy"
+
+# Keep pretty links if you want (/privacy/ instead of /privacy.html)
+permalink: pretty
