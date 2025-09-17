@@ -4,7 +4,7 @@ title: DayOne — Game release tracker, watchlist & alerts
 permalink: /home/
 ---
 
-# DayOne — never miss a game release
+# DayOne — Game release tracker & backlog
 
 DayOne helps you track the releases that matter, organize your watchlist and backlog, and receive alerts before launch as well as delay notifications. The app is available in English and French, supports light and dark themes, and offers, in Pro (one-time purchase), Google Drive cloud sync so you can keep your lists across devices.
 
