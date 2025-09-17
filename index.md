@@ -39,6 +39,6 @@ If you can’t find an answer below, email us at **backloglab@gmail.com**.
 </details>
 
 ## Privacy
-Read the full policy here: **[Privacy Policy — DayOne](/privacy/)**
+Read the full policy here: **[Privacy Policy — DayOne](/PRIVACY_POLICY/)**
 
 _Last updated: {{ site.time | date: "%Y-%m-%d" }}_
