@@ -9,7 +9,7 @@ permalink: /
 Need help with DayOne? You’re in the right place. DayOne helps you track game releases, manage your watchlist and backlog, receive release/delay alerts, and (with Pro) sync via Google Drive.
 
 ## Contact
-If you can’t find an answer below, email us at **backloglab@gmail.com**.  
+If you can’t find an answer below, email us at **backloglab@gmail.com**.
 
 ## Frequently Asked Questions
 
@@ -39,6 +39,6 @@ If you can’t find an answer below, email us at **backloglab@gmail.com**.
 </details>
 
 ## Privacy
-Read the full policy here: **[Privacy Policy — DayOne](/PRIVACY_POLICY/)**
+Read the full policy here: **[Privacy Policy — DayOne]({{ "/privacy/" | relative_url }})**
 
 _Last updated: {{ site.time | date: "%Y-%m-%d" }}_
